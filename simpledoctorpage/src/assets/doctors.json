@@ -3,61 +3,61 @@
         "Name": "Dr. John Smith",
         "Specialty": "Cardiology",
         "Area": "Dallas, TX",
-        "Review Score": 4.5
+        "ReviewScore": 4.5
     },
     {
         "Name": "Dr. Sarah Johnson",
         "Specialty": "Dermatology",
         "Area": "San Antonio, TX",
-        "Review Score": 4.2
+        "ReviewScore": 4.2
     },
     {
         "Name": "Dr. Michael Lee",
         "Specialty": "Orthopedics",
         "Area": "Austin, TX",
-        "Review Score": 3.5
+        "ReviewScore": 3.5
     },
     {
         "Name": "Dr. Michelle Bass",
         "Specialty": "Neurology",
         "Area": "Austin, TX",
-        "Review Score": 2.0
+        "ReviewScore": 2.0
     },
     {
         "Name": "Dr. John Goat",
         "Specialty": "Pediatrics",
         "Area": "Houston, TX",
-        "Review Score": 4.0
+        "ReviewScore": 4.0
     },
     {
         "Name": "Dr. Cameron Diaz",
         "Specialty": "Family Medicine",
         "Area": "Dallas, TX",
-        "Review Score": 3.9
+        "ReviewScore": 3.9
     },
     {
         "Name": "Dr. Gregory House",
         "Specialty": "Infectious Disease",
         "Area": "Corpus Cristi, TX",
-        "Review Score": 3.2
+        "ReviewScore": 3.2
     },
     {
         "Name": "Dr. Heisenburg White",
         "Specialty": "Orthopedics",
         "Area": "Austin, TX",
-        "Review Score": 5.0
+        "ReviewScore": 5.0
     },
     {
         "Name": "Dr. Mikal Rivet",
         "Specialty": "Anesthesiology",
         "Area": "Dallas, TX",
-        "Review Score": 3.0
+        "ReviewScore": 3.0
     },
     {
         "Name": "Dr. Leo Sanchez",
         "Specialty": "Surgery",
         "Area": "Amarillo, TX",
-        "Review Score": 4.6
+        "ReviewScore": 4.6
     }
 
 ]
