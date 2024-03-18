@@ -22,6 +22,7 @@ function App() {
 
   return (
     <>
+      <h1>Click on a name to view more information</h1>
       <ul>
         {doctors.map((doctor, index) => (
           <li key={index} onClick={() => handleSelect(doctor)}>
