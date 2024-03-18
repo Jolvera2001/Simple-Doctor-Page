@@ -2,7 +2,7 @@
 This is for an exercise to show a list of doctors and being able to click on one to expand their information as well as show other similar doctors
 
 ## Deployed Web App URL
-[DoctorPage](doctorpage.azurewebsites.net)
+[DoctorPage](http://doctorpage.azurewebsites.net)
 
 URL: doctorpage.azurewebsites.net
 
