@@ -29,9 +29,15 @@ function App() {
     }
 
     // fetches each doctor with the same Area excluding the selected one
-    return doctors.filter(
+    const similarDoctors = doctors.filter(
       (doc) => doc.Area === selectedDoctor.Area && doc.Name !== selectedDoctor.Name
-    )
+    );
+
+    // sorting for highest review score to be first
+    similarDoctors.sort((a, b) => b.ReviewScore - a.ReviewScore);
+
+    return similarDoctors;
+
   }
 
   return (
@@ -60,7 +66,7 @@ function App() {
             Similar Doctors (Same Area):
             {getSimilarDoctors().map((doctor, index) => (
               <p key={index}>
-                {doctor.Name} - {doctor.Specialty}
+                {doctor.Name} - {doctor.ReviewScore}
               </p>
             ))}
           </h3>
